@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Galeria Imagenes Relajantes</title>
+  </head>
+  <body onload="reset()">
+    <div style="text-align: center">
+      <div class="flechas" onclick="cambio(-1)">&lt;</div>
+
+      <div class="flechas" onclick="parar()">
+        <img id="centro" src="" alt="" />
+      </div>
+
+      <div class="flechas" onclick="cambio(1)">&gt;</div>
+
+      <div class="ctrl">
+        <div class="auto" onclick="automat(1000,-1)">&lt;</div>
+
+        auto
+
+        <div class="auto" onclick="automat(1000, 1)">&gt;</div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

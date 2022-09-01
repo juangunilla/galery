@@ -1,0 +1,42 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img{
+    width: 700px;
+}
+
+.flechas,
+.imgs,
+.auto {
+  display: inline-block;
+
+}
+
+.flechas {
+  padding: 0 10px;
+  font-size: 50px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.flechas:hover,
+.auto:hover {
+  cursor: pointer;
+}
+
+.auto {
+  font-size: 30px;
+  padding: 0 8px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.ctrl {
+  font-size: 20px;
+  padding: 0 10px;
+}
