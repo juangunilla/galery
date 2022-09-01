@@ -1,4 +1,4 @@
-var lista = new Array("img/arboles.jpg", "img/nieve.jpg","img/auras.jpg","img/mar0.jpg","img/mar1.jpg","img/mar2.jpg","img/mar3.jpg","img/mar4.jpg","img/mar5.jpg","img/mar6.jpg","img/mar7.jpg");
+var lista = new Array("img/arboles.jpg", "img/nieve.jpg","img/auras.jpg","img/mar0.jpg","img/mar1.jpg","img/mar2.jpg","img/mar3.jpg","img/mar4.jpg","img/mar5.jpg","img/mar6.jpg","img/mar7.jpg","https://images.pexels.com/photos/1591373/pexels-photo-1591373.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1591373.jpg&fm=jpg","https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/2387418/pexels-photo-2387418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 
 var contador = 0;
 
