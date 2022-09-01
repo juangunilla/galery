@@ -1,4 +1,4 @@
-var lista = new Array("img/arboles.jpg", "img/nieve.jpg");
+var lista = new Array("img/arboles.jpg", "img/nieve.jpg","img/auras.jpg","img/mar0.jpg","img/mar1.jpg","img/mar2.jpg","img/mar3.jpg","img/mar4.jpg","img/mar5.jpg","img/mar6.jpg","img/mar7.jpg");
 
 var contador = 0;
 
