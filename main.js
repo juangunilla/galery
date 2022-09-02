@@ -32,3 +32,6 @@ function automat(tiempo, inc = 1) {
 
   tempor = setTimeout(automat, tiempo, tiempo, inc);
 }
+
+
+automat(100,-1)
